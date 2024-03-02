@@ -1,0 +1,1 @@
+console.log("faça sua oração, abra o terminal e digite: npm start");
