@@ -5,10 +5,9 @@
 2. Clone este repositório.
 
 3. Tenha o TypeScript instalado.
+    ```bash
+    npm install -g typescript
 
-4. ```bash
-   npm install -g typescript
-
-5. Execute o código que quiser
-   ```bash
-   npm start
+4. Execute o código que quiser
+    ```bash
+    npm start
